@@ -35,10 +35,12 @@ Generates visualizations
 
 Saves the trained model (stock_sentiment.pkl)
 
-Potential Future Upgrades:
+**Potential Future Upgrades:**
+
 Deploy as an API endpoint
 
 Add real‑time streaming sentiment
+
 Integrate with trading signals
 
 Add dashboard (Streamlit / Dash)
