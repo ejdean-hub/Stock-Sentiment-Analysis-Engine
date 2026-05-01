@@ -35,7 +35,7 @@ This project builds a 3‑class sentiment analysis model (Positive, Neutral, Neg
 
 -Saves the trained model (stock_sentiment.pkl)
 
-**Potential Future Upgrades:**
+**Potential Future Upgrades**
 
 -Deploy as an API endpoint
 
