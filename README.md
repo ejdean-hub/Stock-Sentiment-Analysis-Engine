@@ -3,6 +3,8 @@
 
 A machine‑learning pipeline that fetches real‑time news from Alpha Vantage, cleans and processes the text, trains a sentiment classifier, visualizes results, and saves a reusable model for future predictions.
 
+**ACCURACY: 70% - 80%** 
+
 **Overview**
 
 This project builds a 3‑class sentiment analysis model (Positive, Neutral, Negative) using:
